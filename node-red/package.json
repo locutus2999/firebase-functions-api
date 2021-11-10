@@ -1,0 +1,11 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-mapper": "0.0.1",
+        "node-red-contrib-storage-google": "^1.0.9",
+        "node-red-contrib-visualmapper": "~0.3.0"
+    }
+}
